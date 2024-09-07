@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: linht
+Build-Jdk: 22.0.2
+Implementation-Title: my_project_version2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: vn.com.my_project
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/my_project_version2
+Created-By: Maven Integration for Eclipse
+
